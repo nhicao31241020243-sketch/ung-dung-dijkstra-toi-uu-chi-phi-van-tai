@@ -25,7 +25,7 @@ Cuối cùng, em xin cảm ơn các thành viên trong nhóm đã luôn hợp t�
 
 ______
 ## GIỚI THIỆU ỨNG DỤNG
-- BẢN ĐỒ TRONG PHẦN MỀM ĐƯỢC THAM KHẢO TẠI: https://cdn.thuvienphapluat.vn/phap-luat/2022-2/NTTY/ban-do-34-tinh-thanh.pdf
+- *BẢN ĐỒ TRONG PHẦN MỀM ĐƯỢC THAM KHẢO TẠI: https://cdn.thuvienphapluat.vn/phap-luat/2022-2/NTTY/ban-do-34-tinh-thanh.pdf*
 - Trong lĩnh vực vận tải, việc lựa chọn lộ trình hợp lý có ảnh hưởng trực tiếp đến chi phí di chuyển. 
 Mục tiêu bài toán đặt ra là xác định lộ trình có tổng chi phí vận tải nhỏ nhất 
 trong số các lộ trình khả thi. Vì vậy, đề tài này tập trung ứng dụng thuật toán Dijkstra để 
@@ -59,6 +59,7 @@ thông dựa trên các yếu tố chính:
   <img src="images/image05.png" width="45%" />
   <img src="images/image03.png" width="45%" />
 </p>
+
 
 
 
