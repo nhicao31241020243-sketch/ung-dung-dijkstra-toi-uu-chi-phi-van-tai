@@ -24,6 +24,7 @@ Cuối cùng, em xin cảm ơn các thành viên trong nhóm đã luôn hợp t�
   *Cao Hà Nhi*
 
 ______
+Trong lĩnh vực vận tải, việc lựa chọn lộ trình hợp lý có ảnh hưởng trực tiếp đến chi phí di chuyển. Mục tiêu bài toán đặt ra là xác định lộ trình có tổng chi phí vận tải thấp nhất trong số các lộ trình khả thi. 
 
 
 
