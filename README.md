@@ -45,18 +45,10 @@ thông dựa trên các yếu tố chính:
 ## *CẠNH (TUYẾN ĐƯỜNG)*
 - Trong chương trình, đồ thị được biểu diễn bằng ma trận kề adj[,] kích thước 8×8, tương ứng với 8 địa điểm (đỉnh) trong hệ thống vận tải.
 ## *ĐỈNH (TỈNH, THÀNH)*
-- Chương trình tạo các đỉnh của đồ thị dựa trên các địa điểm vận tải, trong đó thông tin đỉnh được quản lý bởi Class SetUpGraph, trạng thái thuật toán được lưu trong Class Vertex, dữ liệu địa điểm được biểu diễn -qua Class Location và hiển thị vị trí bằng Class Point. 
-## Gallery
-
-<p align="center">
-  <img src="images/image01.png" width="45%" />
-  <img src="images/image02.png" width="45%" />
-</p>
-
-<p align="center">
-  <img src="images/image03.png" width="45%" />
+- Chương trình tạo các đỉnh của đồ thị dựa trên các địa điểm vận tải, trong đó thông tin đỉnh được quản lý bởi Class SetUpGraph, trạng thái thuật toán được lưu trong Class Vertex, dữ liệu địa điểm được biểu diễn -qua Class Location và hiển thị vimage05.png" width="45%" />
   <img src="images/image04.png" width="45%" />
 </p>
+
 
 
 
