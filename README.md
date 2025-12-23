@@ -48,10 +48,17 @@ thông dựa trên các yếu tố chính:
 - Chương trình tạo các đỉnh của đồ thị dựa trên các địa điểm vận tải, trong đó thông tin đỉnh được quản lý bởi Class SetUpGraph, trạng thái thuật toán được lưu trong Class Vertex, dữ liệu địa điểm được biểu diễn -qua Class Location và hiển thị vị trí bằng Class Point. 
 ## Gallery
 
-| | |
-|---|---|
-| ![](images/image01.png) | ![](images/image02.png) |
-| ![](images/image03.png) | ![](images/image04.png) |
+<p align="center">
+  <img src="images/image01.png" width="45%" />
+  <img src="images/image02.png" width="45%" />
+</p>
+
+<p align="center">
+  <img src="images/image03.png" width="45%" />
+  <img src="images/image04.png" width="45%" />
+</p>
+
+
 
 
 
